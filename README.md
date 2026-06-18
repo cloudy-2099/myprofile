@@ -1,4 +1,4 @@
-# Hi, I'm Rizky Wahyudi 👋
+# Rizky Wahyudi
 ### Web Developer | UI/UX Designer | IoT Engineer
 
 I am a fresh Informatics Engineering graduate from Bina Insani University specializing in Web Development and UI/UX. I have experience building various systems including security applications and healthcare features, where I always prioritize usability through detailed Figma prototyping.
@@ -7,7 +7,7 @@ Along with my certifications from Kominfo and Kelas IoT, my background as an IoT
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 **Frontend & Design**
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
@@ -23,7 +23,7 @@ Along with my certifications from Kominfo and Kelas IoT, my background as an IoT
 
 ---
 
-### 📂 Featured Projects
+### Featured Projects
 - **App Security**: Internal security management system with QR patrols and emergency alerts.
 - **Tabassam Ummi**: Integrated staff library platform with QR Code borrowing system.
 - **Ummi Learning Center**: Web-based training management portal for hospital staff.
@@ -36,7 +36,7 @@ Along with my certifications from Kominfo and Kelas IoT, my background as an IoT
 
 ---
 
-### 📫 Let's Connect!
+### Let's Connect
 - **Email**: [wahyudi.rizky2099@gmail.com](mailto:wahyudi.rizky2099@gmail.com)
 - **LinkedIn**: [Rizky Wahyudi](https://www.linkedin.com/in/rizky-wahyudi-790620296/)
 - **GitHub**: [cloudy-2099](https://github.com/cloudy-2099)
