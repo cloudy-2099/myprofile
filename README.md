@@ -24,10 +24,15 @@ Along with my certifications from Kominfo and Kelas IoT, my background as an IoT
 ---
 
 ### 📂 Featured Projects
-- **Smart Parking System**: IoT-based monitoring with real-time MQTT notifications.
-- **Tabassam Ummi**: Integrated library platform with QR Code system.
-- **Ticketing & Complaint System**: Streamlined hospital administration workflow.
-- **E-Catalog RS UMMI**: Interactive room and facility catalog for patients.
+- **App Security**: Internal security management system with QR patrols and emergency alerts.
+- **Tabassam Ummi**: Integrated staff library platform with QR Code borrowing system.
+- **Ummi Learning Center**: Web-based training management portal for hospital staff.
+- **E-Catalog RS UMMI**: Interactive digital catalog for hospital rooms and facilities.
+- **Ticketing & Complaints**: Streamlined tracking system for internal hospital service requests.
+- **Marketing Visit**: Real-time management system for client visits and marketing reporting.
+- **Cleaning Service Audit**: Digital audit application for monitoring hospital cleanliness standards.
+- **Rekonsiliasi Obat**: Accountability tool for patient medication reconciliation and tracking.
+- **Partograf Digital**: Digital medical partograph system for improved clinical efficiency.
 
 ---
 
