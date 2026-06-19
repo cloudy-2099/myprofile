@@ -29,14 +29,6 @@
             "dest": "/public/build/$1"
         },
         {
-            "src": "/storage/profile_photos/(.*)",
-            "dest": "/storage/app/public/profile_photos/$1"
-        },
-        {
-            "src": "/storage/portfolio_uploads/(.*)",
-            "dest": "/storage/app/public/portfolio_uploads/$1"
-        },
-        {
             "src": "/assets/(.*)",
             "dest": "/public/assets/$1"
         },

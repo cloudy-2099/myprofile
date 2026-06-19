@@ -9,7 +9,7 @@
                 'name' => 'Rizky Wahyudi',
                 'title' => 'Web Developer | UI/UX',
                 'bio' => 'Fullstack Developer & IoT Engineer. Crafting high-performance web systems and smart solutions with precision and purpose. Dedicated to transforming complex ideas into efficient, reliable, and user-centric digital products.',
-                'avatar' => '/storage/profile_photos/profile.jpeg'
+                'avatar' => '/profile_photos/profile.jpeg'
             ]),
             'is_visible' => true,
         ],
@@ -21,7 +21,7 @@
             'content' => json_encode([
                 'description1' => "I am a fresh Informatics Engineering graduate from Bina Insani University specializing in Web Development and UI/UX. I have experience building various systems including security applications and healthcare features, where I always prioritize usability through detailed Figma prototyping.",
                 'description2' => "Along with my certifications from Kominfo and Kelas IoT, my background as an IoT book co-author and journal contributor has given me a strong technical foundation. I'm a fast learner who's ready to grow and create a real impact through reliable digital products.",
-                'avatar' => '/storage/profile_photos/profile1.png',
+                'avatar' => '/profile_photos/profile1.png',
                 'resume' => 'assets/resume/resume_rizkywahyudi.pdf',
                 'hashtags' => 'Laravel, Fullstack, UI/UX, IoT'
             ]),
@@ -71,7 +71,7 @@
                         'title' => 'App Security',
                         'tags' => 'LARAVEL, Livewire, Alpine.js, Javascript',
                         'description' => 'Repositori ini berisi sistem informasi manajemen keamanan internal RS UMMI yang dirancang untuk mengotomatisasi pencatatan patroli checkpoint, pelaporan kejadian, absensi berbasis QR Code dinamis dengan pembatasan IP jaringan, serta sistem peringatan darurat (Panic Alert) massal yang terintegrasi dengan WhatsApp Gateway.',
-                        'image' => '/storage/portfolio_uploads/app-security.png',
+                        'image' => '/portfolio_uploads/app-security.png',
                         'link' => '#'
                     ],
                     [
@@ -79,7 +79,7 @@
                         'title' => 'Tabassam Ummi',
                         'tags' => 'Laravel, Javascript, Livewire, Alpine.js',
                         'description' => 'Sistem Tabassam dikembangkan sebagai platform perpustakaan mandiri terintegrasi yang ditujukan bagi staf internal rumah sakit. Aplikasi ini memadukan kemudahan akses Single Sign-On eksternal dengan sistem pencatatan peminjaman fisik berbasis QR Code secara reaktif tanpa reload halaman.',
-                        'image' => '/storage/portfolio_uploads/tabassam-ummi.png',
+                        'image' => '/portfolio_uploads/tabassam-ummi.png',
                         'link' => '#'
                     ],
                     [
@@ -87,7 +87,7 @@
                         'title' => 'Ummi Learning Center',
                         'tags' => 'Laravel, Livewire, Javascript',
                         'description' => 'Aplikasi ULC (UMMI Learning Center) adalah portal sistem informasi berbasis web yang dirancang khusus untuk mengelola program pelatihan, direktori fasilitator/spesialis, penjadwalan batch, serta galeri fasilitas secara dinamis.',
-                        'image' => '/storage/portfolio_uploads/ummi-learning-center.png',
+                        'image' => '/portfolio_uploads/ummi-learning-center.png',
                         'link' => '#'
                     ],
                     [
@@ -95,7 +95,7 @@
                         'title' => 'E-Catalog RS UMMI',
                         'tags' => 'Livewire, Laravel, Javascript, Alpine.js',
                         'description' => 'Dokumen ini ditulis sebagai panduan teknis bagi developer yang akan melanjutkan atau memelihara sistem E-Catalog Kamar RS UMMI. Sistem ini dirancang untuk menampilkan katalog kamar rawat inap/jalan secara interaktif kepada publik, lengkap dengan panel administrasi untuk manajemen data kamar, fasilitas, benefit, serta media (foto dan video).',
-                        'image' => '/storage/portfolio_uploads/ecatalog-rsummi.png',
+                        'image' => '/portfolio_uploads/ecatalog-rsummi.png',
                         'link' => '#'
                     ],
                     [
@@ -103,7 +103,7 @@
                         'title' => 'Ticketing RS UMMI',
                         'tags' => 'Alpine.js, Laravel, Javascript, Livewire',
                         'description' => 'Sistem Ticketing Complain ini dikembangkan untuk mencatat, mengklasifikasikan, memantau, dan menyelesaikan setiap keluhan atau permintaan bantuan dari unit-unit internal maupun dari pihak luar (pasien/pendamping pasien).',
-                        'image' => '/storage/portfolio_uploads/ticketing-rsummi2.png',
+                        'image' => '/portfolio_uploads/ticketing-rsummi2.png',
                         'link' => '#'
                     ],
                     [
@@ -111,7 +111,7 @@
                         'title' => 'Marketing Visit',
                         'tags' => 'Alpine.js, Laravel, Javascript, Livewire',
                         'description' => 'Sistem aplikasi mandiri berbasis Laravel dan Livewire yang dikembangkan untuk memfasilitasi pelaporan, pemantauan, dan rekapitulasi data kunjungan instansi/klien oleh tim Marketing RS UMMI.',
-                        'image' => '/storage/portfolio_uploads/marketing-visit.png',
+                        'image' => '/portfolio_uploads/marketing-visit.png',
                         'link' => '#'
                     ],
                     [
@@ -119,7 +119,7 @@
                         'title' => 'Cleaning Service',
                         'tags' => 'Livewire, Javascript, Alpine.js, Laravel',
                         'description' => 'Sistem ini merupakan aplikasi berbasis web responsif yang dirancang untuk mempercepat pencatatan dan audit kebersihan area secara real-time.',
-                        'image' => '/storage/portfolio_uploads/cleaning-service.png',
+                        'image' => '/portfolio_uploads/cleaning-service.png',
                         'link' => '#'
                     ],
                     [
@@ -127,7 +127,7 @@
                         'title' => 'Rekonsiliasi Obat',
                         'tags' => 'CodeIgniter 3, Javascript',
                         'description' => 'aplikasi ini berfungsi sebagai alat rekonsiliasi obat yang memastikan setiap obat yang diterima, dipakai, dan dikembalikan tercatat secara transparan dan akuntabel di lingkungan rawat inap rumah sakit.',
-                        'image' => '/storage/portfolio_uploads/rekonsiliasi-obat.png',
+                        'image' => '/portfolio_uploads/rekonsiliasi-obat.png',
                         'link' => '#'
                     ],
                     [
@@ -135,7 +135,7 @@
                         'title' => 'Partograf',
                         'tags' => 'Codeigniter3, Ajax, Javascript',
                         'description' => 'Aplikasi ini berfungsi sebagai pengganti lembar partograf manual (kertas) menjadi format digital berbasis web sesuai dengan format yang ada',
-                        'image' => '/storage/portfolio_uploads/partograf.png',
+                        'image' => '/portfolio_uploads/partograf.png',
                         'link' => '#'
                     ]
                 ]
@@ -156,7 +156,7 @@
                         'description' => 'This book presents ESP32 implementation examples for building smart parking monitoring systems. Topics include ESP32 technical data, hardware and software design (coding), and user interface development. Designed for beginners, it provides a comprehensive guide to building IoT systems from scratch with concise yet detailed explanations.',
                         'isbn' => '978-634-7198-37-2',
                         'year' => '2025',
-                        'file_url' => '/storage/portfolio_uploads/achievement-book.pdf',
+                        'file_url' => '/portfolio_uploads/achievement-book.pdf',
                         'image_url' => '/assets/pencapaian/buku.jpg'
                     ],
                     [
@@ -167,8 +167,8 @@
                         'isbn' => '',
                         'doi_url' => 'https://doi.org/10.51401/jinteks.v7i4.6452',
                         'year' => '2025',
-                        'file_url' => '/storage/portfolio_uploads/achievement-journal.pdf',
-                        'image_url' => '/storage/portfolio_uploads/achievement-journal.png'
+                        'file_url' => '/portfolio_uploads/achievement-journal.pdf',
+                        'image_url' => '/portfolio_uploads/achievement-journal.png'
                     ]
                 ]
             ]),
