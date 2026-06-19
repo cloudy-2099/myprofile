@@ -823,8 +823,8 @@
                             <div class="sm:col-span-2 p-4 rounded-2xl bg-zinc-900 border border-zinc-800 hover:border-amber-500/50 transition-all group/game">
                                 <div class="flex items-center gap-4">
                                     <div class="relative flex-shrink-0">
-                                        <img src="/storage/profile_photos/MLBB_icon.webp" class="w-12 h-12 rounded-xl object-cover shadow-lg" alt="Mobile Legends">
-                                        <img src="/storage/profile_photos/immortal.png" class="w-12 h-12 object-contain absolute -bottom-4 -right-4" alt="Immortal Rank">
+                                        <img src="/profile_photos/MLBB_icon.webp" class="w-12 h-12 rounded-xl object-cover shadow-lg" alt="Mobile Legends">
+                                        <img src="/profile_photos/immortal.png" class="w-12 h-12 object-contain absolute -bottom-4 -right-4" alt="Immortal Rank">
                                     </div>
                                     <div class="flex-1 min-w-0">
                                         <div class="flex items-baseline justify-between gap-2">
